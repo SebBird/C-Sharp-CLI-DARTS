@@ -1,0 +1,13 @@
+C:\Users\Seb\source\repos\CLI-Darts\bin\Debug\netcoreapp3.1\CLI-Darts.exe
+C:\Users\Seb\source\repos\CLI-Darts\bin\Debug\netcoreapp3.1\CLI-Darts.deps.json
+C:\Users\Seb\source\repos\CLI-Darts\bin\Debug\netcoreapp3.1\CLI-Darts.runtimeconfig.json
+C:\Users\Seb\source\repos\CLI-Darts\bin\Debug\netcoreapp3.1\CLI-Darts.runtimeconfig.dev.json
+C:\Users\Seb\source\repos\CLI-Darts\bin\Debug\netcoreapp3.1\CLI-Darts.dll
+C:\Users\Seb\source\repos\CLI-Darts\bin\Debug\netcoreapp3.1\CLI-Darts.pdb
+C:\Users\Seb\source\repos\CLI-Darts\obj\Debug\netcoreapp3.1\CLI-Darts.csprojAssemblyReference.cache
+C:\Users\Seb\source\repos\CLI-Darts\obj\Debug\netcoreapp3.1\CLI-Darts.AssemblyInfoInputs.cache
+C:\Users\Seb\source\repos\CLI-Darts\obj\Debug\netcoreapp3.1\CLI-Darts.AssemblyInfo.cs
+C:\Users\Seb\source\repos\CLI-Darts\obj\Debug\netcoreapp3.1\CLI-Darts.csproj.CoreCompileInputs.cache
+C:\Users\Seb\source\repos\CLI-Darts\obj\Debug\netcoreapp3.1\CLI-Darts.dll
+C:\Users\Seb\source\repos\CLI-Darts\obj\Debug\netcoreapp3.1\CLI-Darts.pdb
+C:\Users\Seb\source\repos\CLI-Darts\obj\Debug\netcoreapp3.1\CLI-Darts.genruntimeconfig.cache
